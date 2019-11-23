@@ -76,6 +76,7 @@ function TimerDuration ({ start }: { start: string }) {
   const [ duration, setDuration ] = React.useState(formatDuration(start));
 
   React.useEffect(() => {
+    setDuration(formatDuration(start));
     const timeoutId = setTimeout(() => {
       setDuration(formatDuration(start));
     }, 1000);

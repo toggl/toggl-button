@@ -265,6 +265,11 @@ export default {
     name: 'Husky Marketing Planner',
     file: 'husky-marketing-planner.js'
   },
+  'hubspot.com': {
+    url: '*://app.hubspot.com/*',
+    name: 'Hubspot',
+    file: 'hubspot.js'
+  },
   'intercom.io': {
     url: '*://*.intercom.io/*',
     name: 'Intercom'

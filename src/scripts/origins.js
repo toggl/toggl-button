@@ -569,12 +569,7 @@ export default {
     name: 'Todoist'
   },
   'toggl.com': {
-    url: '*://toggl.com/*',
-    name: 'Toggl',
-    clone: 'true'
-  },
-  'www.toggl.com': {
-    url: '*://www.toggl.com/*',
+    url: '*://track.toggl.com/*',
     name: 'Toggl',
     clone: 'true'
   },

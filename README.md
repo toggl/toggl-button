@@ -46,6 +46,7 @@ out of the way and focus on real work.
 - [Focuster](https://www.focuster.com/)
 - [Flow](http://getflow.com/)
 - [FogBugz](http://www.fogcreek.com/fogbugz/)
+- [Freedcamp](https://freedcamp.com/)
 - [Freshdesk](https://www.freshdesk.com/)
 - [Ginko App](https://gingkoapp.com/)
 - [Gitea](https://gitea.com/)

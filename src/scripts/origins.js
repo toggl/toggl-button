@@ -189,6 +189,10 @@ export default {
     url: '*://*.fogbugz.com/*',
     name: 'Fogbugz'
   },
+  'freedcamp.com': {
+    url: '*://*.freedcamp.com/*',
+    name: 'Freedcamp'
+  },
   'freshdesk.com': {
     url: '*://*.freshdesk.com/*',
     name: 'Freshdesk'
